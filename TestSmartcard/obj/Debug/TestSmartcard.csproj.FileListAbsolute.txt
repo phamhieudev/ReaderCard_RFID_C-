@@ -1,0 +1,19 @@
+J:\FOR WORK\Project\TestSmartcard\TestSmartcard\bin\Debug\TestSmartcard.exe.config
+J:\FOR WORK\Project\TestSmartcard\TestSmartcard\bin\Debug\TestSmartcard.exe
+J:\FOR WORK\Project\TestSmartcard\TestSmartcard\bin\Debug\TestSmartcard.pdb
+J:\FOR WORK\Project\TestSmartcard\TestSmartcard\obj\Debug\TestSmartcard.Properties.Resources.resources
+J:\FOR WORK\Project\TestSmartcard\TestSmartcard\obj\Debug\TestSmartcard.csproj.GenerateResource.Cache
+J:\FOR WORK\Project\TestSmartcard\TestSmartcard\obj\Debug\TestSmartcard.exe
+J:\FOR WORK\Project\TestSmartcard\TestSmartcard\obj\Debug\TestSmartcard.pdb
+J:\FOR WORK\Project\TestSmartcard\TestSmartcard\obj\Debug\TestSmartcard.FrmMain.resources
+J:\FOR WORK\Project\TestSmartcard\TestSmartcard\obj\Debug\TestSmartcard.csprojResolveAssemblyReference.cache
+E:\TestSmartcard\TestSmartcard\bin\Debug\TestSmartcard.exe.config
+E:\TestSmartcard\TestSmartcard\bin\Debug\TestSmartcard.exe
+E:\TestSmartcard\TestSmartcard\bin\Debug\TestSmartcard.pdb
+E:\TestSmartcard\TestSmartcard\obj\Debug\TestSmartcard.FrmMain.resources
+E:\TestSmartcard\TestSmartcard\obj\Debug\TestSmartcard.Properties.Resources.resources
+E:\TestSmartcard\TestSmartcard\obj\Debug\TestSmartcard.csproj.GenerateResource.cache
+E:\TestSmartcard\TestSmartcard\obj\Debug\TestSmartcard.csproj.CoreCompileInputs.cache
+E:\TestSmartcard\TestSmartcard\obj\Debug\TestSmartcard.exe
+E:\TestSmartcard\TestSmartcard\obj\Debug\TestSmartcard.pdb
+E:\TestSmartcard\TestSmartcard\obj\Debug\TestSmartcard.csproj.AssemblyReference.cache
